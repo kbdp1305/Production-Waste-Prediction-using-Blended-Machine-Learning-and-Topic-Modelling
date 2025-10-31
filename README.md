@@ -4,7 +4,7 @@
 This project analyzes and models **chemical waste management in industrial facilities across the United States** using advanced **machine learning** and **optimization techniques**.  
 By combining **Particle Swarm Optimization (PSO)**, **Ant Colony Optimization (ACO)**, and **Gradient Boosting-based models**, this study predicts **waste production levels** while also integrating **public sentiment analysis** through **Twitter data (BERTweet + BERTopic)**.
 
-Developed as part of **Kotak Riset SC (Fortex 5.0 Finalist)**, this research aims to bridge **environmental data science** with **social insights**, helping improve waste reduction policies and public awareness.
+Developed as part of **Kotak Riset SC (Fortex 5.0 National Data Science Competition Winner)**, this research aims to bridge **environmental data science** with **social insights**, helping improve waste reduction policies and public awareness.
 
 ---
 
